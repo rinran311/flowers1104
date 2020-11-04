@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'FZYaoTi-M06T';
+	src: url(../../assets/fonts/FZYTFW--GB1-0.woff2) format('woff2'),
+	url(../../assets/fonts/FZYTFW--GB1-0.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
